@@ -76,10 +76,6 @@ Here are some ideas to get you started:
 - 💬 Talk to me about How to get first job in the industry, how to create interesting projects. 
 
 
-## My Wakatime Stats ⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="@rahulbanerjee26&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@koval77&compact=True"/>
-</a>
 <figure><embed src="https://wakatime.com/share/@57eb61df-aed2-4a17-8173-613b54163dd6/ee733fc4-d1ea-4503-9dc9-57613c83e543.svg"></embed></figure>
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
