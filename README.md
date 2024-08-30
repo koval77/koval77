@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=koval77.koval77)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 
 </p>
 <div size='20px'> Hi! My name is Wojtek. Thank You for taking the time to view my GitHub Profile :smile: 
